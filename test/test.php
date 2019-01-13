@@ -14,5 +14,6 @@
 </head>
 <body>
 <button class="btn btn-success">test</button>
+<button class="btn btn-warning"></button>
 </body>
 </html>

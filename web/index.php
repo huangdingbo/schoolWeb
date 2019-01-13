@@ -1,6 +1,6 @@
 <?php
 
-$rout = isset($_GET['r']) && $_GET['r'] != '' ? $_GET['r'] : die('缺了路由哦~~~');
+$rout = isset($_GET['r']) && $_GET['r'] != '' ? $_GET['r'] : die('缺了路由哟~~~');
 $routArr = explode('/',$rout);
 $module = $routArr[0];
 $doc = $routArr[1];

@@ -1,0 +1,8 @@
+单入口文件（index.php）
+
+静态资源文件放在web/public下
+
+网页文件放在web同级目录下，一种类型的页面放在同一个文件夹里
+
+路由请求参考：http://huangdingbo.work/schoolWeb/web/index.php?r=test/test
+r参数，第一个test表示文件夹，第二个test表示文件名
