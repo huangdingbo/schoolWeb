@@ -6,3 +6,5 @@
 
 路由请求参考：http://huangdingbo.work/schoolWeb/web/index.php?r=test/test
 r参数，第一个test表示文件夹，第二个test表示文件名
+huangdingbo.work 表示域名，在你的项目中换成你的域名即可，比如你是在本机进行开发，域名为localhost，那么路由请求为：
+http://localhost/schoolWeb/web/index.php?r=test/test
