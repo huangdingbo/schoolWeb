@@ -8,6 +8,6 @@ $file = '../'.$module.'/'.$doc.'.php';
 if(file_exists($file)){
     require '../'.$module.'/'.$doc.'.php';
 }else{
-    die('文件夹或者文件不存在哟~~~');
+    die('文件夹或者文件不存在哟~~~'.$file);
 }
 
